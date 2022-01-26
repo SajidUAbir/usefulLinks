@@ -86,4 +86,7 @@ $(function(){
 		resetCallback: function() {}
 	});
 
+  // animate - wowjs
+  new WOW().init();
+
 });
