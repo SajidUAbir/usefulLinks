@@ -88,7 +88,7 @@ and patterns
 
 
 - Color palette
-    - [ mycolor.space ](https://mycolor.space){:target="blank"} - Generate nice Color Palettes
+    - [ mycolor.space ](https://mycolor.space) - Generate nice Color Palettes
     - [coolors.co](https://coolors.co) - color palettes generator
     - [flatuicolors.com](https://flatuicolors.com/) - color palettes
     - [materialpalette.com](https://www.materialpalette.com/) -  material design palette 
