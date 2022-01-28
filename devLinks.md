@@ -88,7 +88,7 @@ and patterns
 
 
 - Color palette
-    - [ mycolor.space ](https://mycolor.space) - Generate nice Color Palettes
+    - [ mycolor.space ](https://mycolor.space){:target="_blank"} - Generate nice Color Palettes
     - [coolors.co](https://coolors.co) - color palettes generator
     - [flatuicolors.com](https://flatuicolors.com/) - color palettes
     - [materialpalette.com](https://www.materialpalette.com/) -  material design palette 
@@ -97,6 +97,9 @@ and patterns
      - [canva.com](https://www.canva.com/colors/color-wheel/) - Color wheel
      - [color.adobe.com/create/color-wheel](https://color.adobe.com/create/color-wheel) - adobe color wheel
      - [paletton.com](https://paletton.com) - color Wheel + Color palette
+
+     - Yotube 
+        [Color](https://youtu.be/_2LLXnUdUIc) - Beginning Graphic Design: Color
 
 ### CSS
 ___
@@ -123,12 +126,14 @@ ___
     - [docs.emmet.io](https://docs.emmet.io/cheat-sheet/) - Emmet Documentation
 
 ### CMS
+___
 - [Drupal](https://www.drupal.org/)
 - [Joomla](https://www.joomla.org/)
 - [Shopify](https://www.shopify.com/)
 - [Wordpress](https://wordpress.org/download/#download-install)
 
 ### Code playground
+___
 - [Codepen](https://codepen.io)
     - [amit_sheen](https://codepen.io/amit_sheen)
 
@@ -150,6 +155,7 @@ ___
     - [fontflipper](https://fontflipper.com/upload) - Preview Google Fonts on top of your own designs, without having to download them first.
 
 ### Flutter
+___
 - [Flutter](https://flutter.dev/)
 
 ### Git 
@@ -270,6 +276,7 @@ ___
 [Markdown table](https://markdown.land/markdown-table)
 
 ### Market place
+___
 [Codecanyon](https://codecanyon.net/) |
 [Elegantthemes](https://www.elegantthemes.com/) |
 [Fiverr](https://www.fiverr.com/) |
