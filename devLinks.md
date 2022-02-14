@@ -56,6 +56,7 @@ ___
 - [Chrome](https://www.google.com/chrome/) - Better for JavaScript
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Better for finding HTML errors
 
+
 ### Blockchain
 ___
 - [Demo Blockchain](https://demoblockchain.org/block) - A live blockchain demo in a browser. Toggle navigation. Demo Blockchain
@@ -270,7 +271,7 @@ ___
     -  #### jQuery
         [jQuery Core – All Versions](https://releases.jquery.com/jquery/) |
         [jQuery 1.12.4 and 2.2.4 Released](https://blog.jquery.com/2016/05/20/jquery-1-12-4-and-2-2-4-released/)
-    - jQuery plugins
+    - ### jQuery plugins
         - background effects
             - [background video](https://www.jqueryscript.net/demo/youtube-video-fullscreen-background/) - Background video
             - [Particles.js](https://www.jqueryscript.net/animation/Lightweight-jQuery-Plugin-For-Creating-Particles-Animation-Particles-js.html) 
