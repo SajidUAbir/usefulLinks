@@ -1,7 +1,5 @@
 # Web development
 
-
-
 #### Categories
 ___
 1. [Ask question](#ask-question)
@@ -14,15 +12,19 @@ ___
 8. [CMS](#cms)
 9. [Code Editor](#code-editor)
 10. [Code playground](#code-playground)
+11. [Design Inspiration](#Design-Inspiration)
+11. [Design tools](#Design-tools)
 11. [Fonts](#fonts)
 12. [Git](#git)  
 12.1. [Git commands](#git-commands)  
 12.2. [Git hosting services](#git-hosting-services)
+13. [Icon](#iocn)
 13. [JavaScript](#javascript)     
 14.1. [Libraries](#libraries)   
 14.2.           [jQuery](#jQuery)   
 14.3.         [jQuery-plugins](#jQuery-plugins)
 15. [Local Server](#local-server)
+16. [Logo](#logo)
 16. [Markdown](#markdown)
 17. [Market place](#market-place)
 18. [Matrix](#matrix)
@@ -49,6 +51,8 @@ ___
 - [Steve Krug  - Don't Make Me Think, Revisited](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
 
 ### Browsers
+___
+
 - [Chrome](https://www.google.com/chrome/) - Better for JavaScript
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Better for finding HTML errors
 
@@ -105,8 +109,8 @@ and patterns
 ___
 - Online tools
     - [getcssscan](https://getcssscan.com/css-box-shadow-examples) - Beautiful CSS box-shadow examples
-    - [CSS Validation Service](http://jigsaw.w3.org/css-validator/) - CSS Validator
     - [clippy](https://bennettfeely.com/clippy/) - CSS Shapes
+    - [Validator](#Validator) - takes you to the validator section
 - [SASS](https://sass-lang.com/) - CSS preprocessor
 - [Bootstrap](https://getbootstrap.com/) - CSS Framework
 - Reference
@@ -127,28 +131,37 @@ ___
 
 ### CMS
 ___
-- [Drupal](https://www.drupal.org/)
-- [Joomla](https://www.joomla.org/)
-- [Shopify](https://www.shopify.com/)
-- [Wordpress](https://wordpress.org/download/#download-install)
+- [drupal.org](https://www.drupal.org/)
+- [joomla.org](https://www.joomla.org/)
+- [shopify.com](https://www.shopify.com/)
+- [shopify.com](https://wordpress.org/download/#download-install)
 
 ### Code playground
 ___
-- [Codepen](https://codepen.io)
+- [codepen.io](https://codepen.io)
     - [amit_sheen](https://codepen.io/amit_sheen)
 
-### Design
+### Design Inspiration
+___
+- [behance](https://www.behance.net/) -  discover creative work
+- [dribbble](https://dribbble.com/) - Find Top Designers & Creative Professionals on Dribbble, where designers gain inspiration,
+- [pinterest](https://www.pinterest.com) - Discover ideas, style inspiration and other ideas to try.
+- [themeforest.net](https://themeforest.net) - Website templates here on ThemeForest, WordPress plugins, graphic assets of all sorts
+
+### Design Tools
 ___
 - [Figma](https://www.figma.com/)
 - [Photopea](https://www.photopea.com/) - Online Editor, support PSD, XCF, Sketch, XD and CDR
 
+### Database
+- [mongodb.com](https://www.mongodb.com/)
+
+
 ### Fonts
 ___
 - Browser Extention 
-    - WhatFont
-[Dafont](https://www.dafont.com) |
-[Font Awesome](https://fontawesome.com/) |
-[Google Fonts](https://fonts.google.com/) |
+    - WhatFont  
+- [Dafont](https://www.dafont.com) | [Google Fonts](https://fonts.google.com/) |
 [myfonts](https://www.myfonts.com/WhatTheFont) 
 
 - Online tools
@@ -165,10 +178,10 @@ ___
     - [Git for windows](https://gitforwindows.org)
         ##### Git commands
         ```bash
-        git config --global user.name "<username>"      # Configure the author name.
+        git config --global user.name "your_username_here"      # Configure the author name.
         ```
         ```bash
-        git config --global user.email <email address>  # Configure the author email address.
+        git config --global user.email your_email_address_here  # Configure the author email address.
         ```
         ```bash
         git init    # Initialize a local Git repository
@@ -204,10 +217,10 @@ ___
         git branch -a   # List all branches (local and remote)
         ```
         ```bash
-        git branch <branch name>    # Create a new branch
+        git branch branch-name    # Create a new branch
         ```
         ```bash
-        git merge <branch name>     # Merge a branch into the active branch
+        git merge branch-name     # Merge a branch into the active branch
         ```
         ```bash
         git push    # Push changes to remote repository (remembered branch)
@@ -223,13 +236,20 @@ ___
     - [Github](https://github.com/)
     - [Gitlab](https://about.gitlab.com)
 
-### HTML 
-[HTML Validation](https://validator.w3.org/nu/#textarea) - HTML Validator
+### Icon 
+___
+- [Font Awesome](https://fontawesome.com/) | [Flaticon](https://www.flaticon.com/)
 
 ### JavaScript
 ___
+
 - books 
     - [David Flanagan - JavaScript: The Definitive Guide](https://www.goodreads.com/book/show/148050.JavaScript) (Beginner-To-Advanced)
+
+- JavaScript Runtime 
+    - [Nodejs.org](https://nodejs.org/en/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. 
+        - Framework
+            - [Expressjs.com](https://expressjs.com/) - ExpressJS Fast, unopinionated, minimalist web framework for Node.js
 - Online tools
     - [Regexr - live Regex tester](https://regexr.com/)
 - Reference
@@ -241,42 +261,64 @@ ___
       - [JavaScript HTML DOM EventListener](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
 
     #### Framework
+
     - [AngularJS](https://angularjs.org/)
     - [Node.js](https://nodejs.org/en/)
-    - [ExpressJS](https://expressjs.com/)
     - [React Native](https://reactnative.dev/)
     #### Libraries
+
     -  #### jQuery
         [jQuery Core – All Versions](https://releases.jquery.com/jquery/) |
         [jQuery 1.12.4 and 2.2.4 Released](https://blog.jquery.com/2016/05/20/jquery-1-12-4-and-2-2-4-released/)
     - jQuery plugins
-        - [background video](https://www.jqueryscript.net/demo/youtube-video-fullscreen-background/) - Background video
-        - [colorfulTab](https://github.com/knyttneve/colorfulTab) -  Tab plugin
-        - [Counter Up](https://github.com/bfintal/Counter-Up) 
-        - [Lightbox 2](https://lokeshdhakar.com/projects/lightbox2/) - overlay images on top of the current page
-        - [Linear Progress Indicator](https://www.jqueryscript.net/chart-graph/linear-progress-indicator-bar.html)
-        - [magnific popup](https://dimsemenov.com/plugins/magnific-popup/) 
-        - [mixitup](https://www.kunkalabs.com/mixitup/) 
-        - [Particles.js](https://www.jqueryscript.net/animation/Lightweight-jQuery-Plugin-For-Creating-Particles-Animation-Particles-js.html) 
-        - [slick](http://kenwheeler.github.io/slick/) - Slider 
-        - [Swiper](https://github.com/nolimits4web/Swiper) - Slider
-        - [Typed js](https://codepen.io/merb/pen/yOwJjj) 
-        - [Venobox 2](https://veno.es/venobox/) - Images, Videos, Inline contents, iFrames
-        - [Wow js](https://wowjs.uk/) - Reveal Animations on Scroll
-        - [jqueryscript.net](https://www.jqueryscript.net/) - A website for jQuery plugins
+        - background effects
+            - [background video](https://www.jqueryscript.net/demo/youtube-video-fullscreen-background/) - Background video
+            - [Particles.js](https://www.jqueryscript.net/animation/Lightweight-jQuery-Plugin-For-Creating-Particles-Animation-Particles-js.html) 
+        - image 
+            - [Lightbox 2](https://lokeshdhakar.com/projects/lightbox2/) - overlay images on top of the current page
+            - [magnific popup](https://dimsemenov.com/plugins/magnific-popup/) 
+        - slider
+            - [slick](http://kenwheeler.github.io/slick/) - Slider 
+            - [Swiper](https://github.com/nolimits4web/Swiper) - Slider
+        - Text effects
+            - [Typed js](https://codepen.io/merb/pen/yOwJjj)
+            - [Counter Up](https://github.com/bfintal/Counter-Up) 
+        
+        - tabs
+            - [colorfulTab](https://github.com/knyttneve/colorfulTab) -  Tab plugin
+        
+        - uncategorized
+            - [Linear Progress Indicator](https://www.jqueryscript.net/chart-graph/linear-progress-indicator-bar.html)
+            - [mixitup](https://www.kunkalabs.com/mixitup/) 
+            - [Venobox 2](https://veno.es/venobox/) - Images, Videos, Inline contents, iFrames
+            - [wowjs.uk](https://wowjs.uk) - Reveal Animations on Scroll
+        
+        - website
+            - [jqueryscript.net](https://www.jqueryscript.net/) - A website for jQuery plugins
 
-    - [React](https://reactjs.org)
+    - [Reactjs.org](https://reactjs.org) - React is an open-source, front end, JavaScript library for building user interfaces or UI components
+    - [Reactnative.dev](https://reactnative.dev) - React Native is an open-source UI software framework created by Meta Platforms, Inc
+    - [threejs.org](https://threejs.org/) - to create and display animated 3D computer graphics in a web browser using WebGL
 
 ### Local Server
 ___
-- [apachefriends (XAMPP)](https://www.apachefriends.org/download.html)
+- [apachefriends.org](https://www.apachefriends.org/download.html) - XAMPP
+
+### Logo 
+___
+- [brandcrowd.com](https://www.brandcrowd.com/) - Make a logo design online
+- [graphicsprings.com](https://www.graphicsprings.com/start-your-logo) - Free Logo Maker
+- [logopony.com](https://app.logopony.com/en/details) - create icon online 
 
 ### Markdown
+___
+
 [Basic Syntax](https://www.markdownguide.org/basic-syntax/) |
 [Markdown table](https://markdown.land/markdown-table)
 
 ### Market place
 ___
+
 [Codecanyon](https://codecanyon.net/) |
 [Elegantthemes](https://www.elegantthemes.com/) |
 [Fiverr](https://www.fiverr.com/) |
@@ -286,6 +328,7 @@ ___
 
 ### Metaverse
 ___
+
 - Articles
     - [How Can I Access The Metaverse?](https://stealthoptional.com/tech/metaverse-release-date-when-is-metaverse-releasing-and-how-can-i-access-the-metaverse/)
 - [facebook-horizon](https://www.oculus.com/facebook-horizon/)
@@ -294,6 +337,7 @@ ___
 - [nvidia Omniverse](https://www.nvidia.com/en-us/omniverse/)
 ### Matrix
 ___
+
 [JavaScript](https://matrix.to/#/#javascript:matrix.org) |
 [Machine Web Development](https://matrix.to/#/#atmachine-webdev:matrix.org) |
 [Node.js](https://matrix.to/#/#Node.js:matrix.org) |
@@ -302,6 +346,8 @@ ___
 [Web Development and Operations](https://matrix.to/#/#webdevelopment:matrix.org)
 
 ### Online tools
+___
+
 [Favicon generator](https://realfavicongenerator.net/) 
 
 ### Portfolio template
@@ -319,12 +365,14 @@ ___
 
 
 ### Python
+___
 - #### framework
     - [django](https://www.djangoproject.com/)
     - [Flask](https://palletsprojects.com/p/flask/)
 
 
 ### PHP
+____
  - #### Framework
     - [laravel](https://laravel.com)
 
@@ -342,6 +390,7 @@ ___
 
 ### Reddit
 ___
+
 [r/AskProgramming](https://www.reddit.com/r/AskProgramming/) |
 [r/BadCode](https://www.reddit.com/r/badcode/) |
 [r/CodingHelp](https://www.reddit.com/r/CodingHelp) | 
@@ -354,9 +403,13 @@ ___
 [r/webdev](https://www.reddit.com/r/webdev)
 
 <!-- subreddit begin -->
+### uncategorized
+___
+
+- [https://imghost.org](https://imghost.org) - Free image host service
+- [postimages.org](https://postimages.org) - Free image host service
 
 <!-- youtube channel list begin -->
-
 ### Youtube
 ___
 - [ Anisul Islam (Bengali)](https://www.youtube.com/c/anisulislamrubel/playlists) - javaScript
@@ -388,6 +441,10 @@ ___
 ### Not recommended
 ___
 - ~~[Web Ship (Bengali)](https://www.youtube.com/c/WebShip/playlists)~~ - very long videos. read books instead.
+
+### Validator
+- [HTML Validation](https://validator.w3.org/nu/#textarea) - HTML Validator
+- [CSS Validation Service](http://jigsaw.w3.org/css-validator/) - CSS Validator
 
 <!-- youtube channel list end -->
 

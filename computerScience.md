@@ -1,10 +1,14 @@
 ## Categories
-#### [Youtube](#youtube-channels)
+- [Youtube](#youtube-channels)
 
-## IDE ( Integrated development environment )
+### AI
+- [openai.com](https://openai.com/)
+
+### IDE ( Integrated development environment )
 - [CS50 IDE](https://ide.cs50.io/)
 
 ## References
+___
 - [devdocs](https://devdocs.io/c/)
 - [w3schools](https://www.w3schools.com/)
 
