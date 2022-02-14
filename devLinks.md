@@ -265,7 +265,6 @@ ___
 
     - [AngularJS](https://angularjs.org/)
     - [Node.js](https://nodejs.org/en/)
-    - [React Native](https://reactnative.dev/)
     #### Libraries
 
     -  #### jQuery
@@ -285,10 +284,10 @@ ___
             - [Typed js](https://codepen.io/merb/pen/yOwJjj)
             - [Counter Up](https://github.com/bfintal/Counter-Up) 
         
-        - tabs
+        - Tabs
             - [colorfulTab](https://github.com/knyttneve/colorfulTab) -  Tab plugin
         
-        - uncategorized
+        - Uncategorized
             - [Linear Progress Indicator](https://www.jqueryscript.net/chart-graph/linear-progress-indicator-bar.html)
             - [mixitup](https://www.kunkalabs.com/mixitup/) 
             - [Venobox 2](https://veno.es/venobox/) - Images, Videos, Inline contents, iFrames
