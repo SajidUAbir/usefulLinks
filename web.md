@@ -111,6 +111,7 @@ ___
     - [Validator](#Validator) - takes you to the validator section
 - [SASS](https://sass-lang.com/) - CSS preprocessor
 - [Bootstrap](https://getbootstrap.com/) - CSS Framework
+- [tailwindcss.com](https://tailwindcss.com) - TailwindCSS is a utility-first CSS framework
 - Reference
     - [CSS-tricks](https://css-tricks.com/)
         - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
