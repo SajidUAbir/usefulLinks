@@ -4,8 +4,8 @@
 ___
 1. [Ask question](#ask-question)
 2. [Bootstrap](#bootstrap)
-3. [books](#books)
-4. [Blockchain](#blockchain)
+3. [Books](#books)
+3. [Blog](#blog)
 5. [Copyright free](#copyright-free)
 6. [Colors](#color)
 7. [CSS](#css)
@@ -36,7 +36,6 @@ ___
 23. [Reddit](#reddit)
 24. [Youtube Channels](#youtube)   
 24.1. [Not recommended](#not-recommended)
-26. [Web 3.0](#web-3.0)
 27. [Websites](#Websites)
  
 
@@ -48,7 +47,15 @@ ___
 ### Books
 ___
 
-- [Steve Krug  - Don't Make Me Think, Revisited](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
+- [Don't Make Me Think, Revisited - By Steve Krug](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
+- [JavaScript: The Definitive Guide - By  David Flanagan](https://www.goodreads.com/book/show/53501866-javascript)
+
+### blog
+___
+
+- [freecodecamp.org](https://www.freecodecamp.org/news/tag/blog) 
+- [geeksforgeeks.org](https://www.geeksforgeeks.org) 
+- [medium.com](https://medium.com) 
 
 ### Browsers
 ___
@@ -57,17 +64,7 @@ ___
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Better for finding HTML errors
 
 
-### Blockchain
-___
-- [Demo Blockchain](https://demoblockchain.org/block) - A live blockchain demo in a browser. Toggle navigation. Demo Blockchain
-- [Ethereum](https://ethereum.org/en/) - Blockchain technology
-- [remix IDE](https://remix.ethereum.org/) - Online IDE for Solidity
-- [Solidity docs](https://docs.soliditylang.org/en/latest/) - documentation of Solidity language
-- [Vitalik Buterin's website](https://vitalik.ca) - Co-founders of Ethereum 
-- NFT Domains
-    - [Unstoppable Domains](https://unstoppabledomains.com/)
-- wallet
-    - [metamask](https://metamask.io/) - A crypto wallet & gateway to blockchain apps
+
 
 ### Copyright free
 ___
@@ -232,6 +229,12 @@ ___
         ```bash
         git clone	# clone a repo
         ```
+        ```bash
+        git remote -v  # check remote URLs of a local Git repository
+        ```
+        ```bash
+        git remote remove origin  # Remove the old origin
+        ```
  - #### Git hosting services
     - [Bitbucket](https://bitbucket.org)
     - [Github](https://github.com/)
@@ -326,15 +329,8 @@ ___
 [Peopleperhour](https://www.peopleperhour.com/) |
 [Themeforest](https://themeforest.net/) 
 
-### Metaverse
-___
 
-- Articles
-    - [How Can I Access The Metaverse?](https://stealthoptional.com/tech/metaverse-release-date-when-is-metaverse-releasing-and-how-can-i-access-the-metaverse/)
-- [facebook-horizon](https://www.oculus.com/facebook-horizon/)
 
-- [Microsoft mesh](https://www.microsoft.com/en-us/mesh)
-- [nvidia Omniverse](https://www.nvidia.com/en-us/omniverse/)
 ### Matrix
 ___
 
@@ -447,10 +443,6 @@ ___
 - [CSS Validation Service](http://jigsaw.w3.org/css-validator/) - CSS Validator
 
 <!-- youtube channel list end -->
-
-### Web 3.0
-___
-- [what-is-web3](https://www.freecodecamp.org/news/what-is-web3/)
 
 
 ### Websites
