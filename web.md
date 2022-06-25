@@ -34,6 +34,7 @@ ___
 21. [PHP](#php)
 22. [Reference](#reference)
 23. [Reddit](#reddit)
+24. [Tools for devs](#tool-for-devs)
 24. [Youtube Channels](#youtube)   
 24.1. [Not recommended](#not-recommended)
 27. [Websites](#Websites)
@@ -398,6 +399,15 @@ ___
 [r/ReactJS](https://www.reddit.com/r/reactjs/) |
 [r/web_design](https://www.reddit.com/r/web_design/)
 [r/webdev](https://www.reddit.com/r/webdev)
+
+
+### Tool For Devs
+___
+[Asana](https://asana.com)  -  work management platform
+[Github](https://github.com)  -  manage code, as well as track and control changes to the code
+[Gitlab](https://about.gitlab.com)  -  DevOps software package that combines the ability to develop, secure, and operate software in a single application.
+[Jira](https://www.atlassian.com/software/jira)  -  issue tracking product developed by Atlassian that allows bug tracking and agile project management
+[Trello](https://trello.com)  -  a collaboration tool that organizes your projects into boards
 
 <!-- subreddit begin -->
 ### uncategorized
